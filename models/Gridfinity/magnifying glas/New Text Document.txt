@@ -1,0 +1,6 @@
+use https://www.photiu.ai/background-remover to remove the background and make it a mask
+use https://picsvg.com/ to turn mask to svg
+
+inport svg to tinkercad  fill mode silowet
+
+17:29 23-03-2025
